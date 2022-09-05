@@ -1,0 +1,10 @@
+extensions=(
+	no-overview@fthx
+	dash-to-dock@micxgx.gmail.com
+	appindicatorsupport@rgcjonas.gmail.com
+	gsconnect@andyholmes.github.io
+	caffeine@patapon.info
+	transparent-top-bar@ftpix.com
+	impatience@gfxmonk.net
+	hidetopbar@mathieu.bidon.ca
+)

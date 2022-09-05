@@ -1,0 +1,17 @@
+# Source this file in your shell's .*rc file.
+
+alias l="ls -lah"
+alias c="clear"
+alias x="exit"
+alias e="gnome-text-editor"
+alias n="neofetch"
+alias b="btop"
+alias pmi="sudo pacman -Syu --noconfirm --needed"
+alias pmm="yay -Syu --noconfirm --needed"
+alias pms="sudo pacman -Ss"
+alias pmsa="yay -Ss"
+alias pmu="yay -Syu --noconfirm --needed"
+alias pmr="sudo pacman -Rns"
+alias cdd="cd /mnt/Data/Users/Elfry/"
+alias cdh="cd /srv/http/"
+alias sv="php artisan serve --host 0.0.0.0"
